@@ -3,7 +3,10 @@
 #### 介绍
 畅图云是一套免费的PPT式可视化应用快速搭建平台，用户只需要零代码/低代码就能快速搭建可视化应用。
 软件支持私有化部署，目前支持windows和liux版本。
-![Image text](https://cdn.nlark.com/yuque/0/2021/png/268759/1623847250010-c88a8628-9936-4538-921c-aef53c7fa888.png)
+![Image text](https://github.com/CGSCloud/cgscloud/blob/main/bigscreen.png)
+![Image text](https://github.com/CGSCloud/cgscloud/blob/main/2d.png)
+![Image text](https://github.com/CGSCloud/cgscloud/blob/main/3d.png)
+![Image text](https://github.com/CGSCloud/cgscloud/blob/main/earth.png)
 
 #### 软件架构
 目前平台支持大屏幕、二维、三维、Earth四类场景应用搭建，将来会有更多应用类型。不同的应用类型，对用不同的编辑器。
